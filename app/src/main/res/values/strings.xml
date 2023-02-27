@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="taller_1">Taller 1</string>
+    <string name="guess_game">Guess Game</string>
+    <string name="random_greet">Random Greet</string>
+    <string name="countries">Countries</string>
+    <string name="_0_100">0-1000</string>
+    <string name="Titulo1">Guess the number between 0-</string>
+    <string name="guessing_number">Guessing Number</string>
+    <string name="check">Check</string>
+    <string name="Win">Great, you won!!!!!</string>
+    <string name="Low">Number is lower than</string>
+    <string name="High">Number is higher than</string>
+    <string name="Try">Tries: </string>
+    <string name="outbounds">Out of bounds number, Try again</string>
+    <string name="Capital">"Capital: "</string>
+    <string name="NombreSP">"Nombre: "</string>
+    <string name="NameENG">"Name: "</string>
+    <string name="Acronym">"Acronym: "</string>
+    <string-array name="opciones">
+        <item>Aleman</item>
+        <item>Ingles</item>
+        <item>Espanol</item>
+        <item>Japones</item>
+    </string-array>
+</resources>
